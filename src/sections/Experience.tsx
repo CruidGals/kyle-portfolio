@@ -1,6 +1,6 @@
 
 import { Container, Row } from "react-bootstrap"
-import { FadeUpH1, FadeUpLi, FadeUpUl } from "./components/Constants";
+import { FadeUpH1, FadeUpUl } from "./components/Constants";
 
 const experiences = [
   { id: 1, 
