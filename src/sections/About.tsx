@@ -29,7 +29,7 @@ const About = () => {
                 </Col>
                 <Col md={6} className="p-5">
                     <FadeUpDiv>
-                        <Image src="/kyle-portfolio/public/about_pic.jpg" fluid />
+                        <Image src="about_pic.jpg" fluid />
                     </FadeUpDiv>
                 </Col>
             </Row>
