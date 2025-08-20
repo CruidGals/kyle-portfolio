@@ -20,7 +20,7 @@ const About = () => {
                         </ul>
                         <hr />
                         <FadeUpP className="align-self-center align-self-md-start">Aside from those quick facts, I am a <strong>natural leader</strong> striving to advance our world into the <strong>Sci-Fi realm.</strong> Perfecting humanoid robot interaction and computer vision tasks are my main interests, but any machine learning and software engineering work excites me. Check out my resumé below:</FadeUpP>
-                        <FadeUpA href="/kyle-portfolio/public/kylechiem_7_2025_full.pdf">
+                        <FadeUpA href="/kylechiem_8_2025_2027_full.pdf">
                             <Button className="w-100">
                                 <h2>Resume [PDF]</h2>
                             </Button>
@@ -29,7 +29,7 @@ const About = () => {
                 </Col>
                 <Col md={6} className="p-5">
                     <FadeUpDiv>
-                        <Image src="about_pic.jpg" fluid />
+                        <Image src="/about_pic.jpg" fluid />
                     </FadeUpDiv>
                 </Col>
             </Row>
