@@ -6,7 +6,7 @@ import { FadeUpDiv, FadeUpH1 } from './components/Constants'
 const Home = () => {
   return (
     <section id="home">
-        <div className="d-flex flex-column flex-lg-column flex-md-row justify-content-around align-items-center p-lg-0 p-sm-5 gap-3 gap-md-0">
+        <div className="d-flex flex-column flex-lg-column flex-md-row justify-content-around align-items-center pb-0 pb-sm-5 gap-3 gap-md-0">
             <FadeUpH1 className="text-center section-header">
                 KYLE CHIEM
             </FadeUpH1>
