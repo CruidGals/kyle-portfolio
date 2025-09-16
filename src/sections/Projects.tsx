@@ -31,10 +31,10 @@ const projects_1 = [
 
 const projects_2 = [
   { id: 2, 
-    title: 'Tetris DQN', 
+    title: 'Tetris AI Agent', 
     icons: [faPython],
     links: [ {icon: faGithub, link: 'https://github.com/CruidGals/tetris-dqn'} ],
-    children: <Card.Text>Ongoing project trying to enable computers to learn the classic game Tetris using <strong>deep Q Learning</strong>. Used key strategies like <strong>performance-based epsilon decay</strong> and <strong>prioritized experience replay</strong> to stabilize training, and leveraged <strong>TensorBoard</strong> to catch any instability in the network.</Card.Text>},
+    children: <Card.Text>AI model that learned how to play Tetris using <strong>deep Q-learning</strong> and a novel <strong>afterstate model</strong> for lookahead. Featured epsilon decay and prioritized experience replay. Leveraged <strong>TensorBoard</strong> to observe training metrics and instability to further improve performance.</Card.Text>},
   { id: 4, 
     title: 'Personal Website', 
     icons: [faReact, faBootstrap],
